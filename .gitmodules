@@ -5,3 +5,8 @@
 [submodule "polle"]
 	path = polle
 	url = https://github.com/andreasnordland/polle
+[submodule "targeted"]
+	path = targeted
+	url = https://github.com/kkholst/targeted
+	branch = main
+	registered = false
